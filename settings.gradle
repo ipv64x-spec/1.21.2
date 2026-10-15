@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        maven {
+            name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+// Single-version project: builds only Minecraft 1.21.2.
+// Run: ./gradlew :1.21.2:build
+// The jar ends up in versions/1.21.2/build/libs/
+
+include(':1.21.2')
+project(':1.21.2').projectDir = file('versions/1.21.2')

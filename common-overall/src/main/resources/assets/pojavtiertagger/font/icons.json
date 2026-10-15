@@ -1,0 +1,139 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/sword.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/mace.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/smp.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/pot.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/vanilla.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/nethop.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/uhc.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/axe.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/cart.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/diamond_smp.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue00a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:gamemodes/spear_mace.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue00b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:overall/combat_cadet.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:overall/combat_ace.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:overall/combat_master.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pojavtiertagger:overall/combat_grandmaster.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\ue013"
+      ]
+    }
+  ]
+}
